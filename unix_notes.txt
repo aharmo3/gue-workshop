@@ -47,7 +47,7 @@ sends the output of a command on the let side to a file named on the right
 *GIT*
 Commands:
 git status - always do this- make sure you know the state!!!!
-git init - initalizes git
+git init - initalizes gkjksdlfjit
 git add - adds files
 git rm - will remove from staging area
 git log - tells you the history
