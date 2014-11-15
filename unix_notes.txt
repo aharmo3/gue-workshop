@@ -56,6 +56,10 @@ Flags:
 - m = message
 Staging - the area before you commit
 
+Steps:
+git add [filename]
+git commit -m "description"
+
 
 
 
