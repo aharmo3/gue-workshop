@@ -1,4 +1,82 @@
 I am an addition to the branch git notes. The branch master is not being protected from my crazy ass changes. This file will be not be on the master branch. 
 
 
-This is a comment that will show up and then be pushed
+This is a comment that will show up and then be pushed. 
+
+You home director is a folder on the computer filesystem that belongs to you.
+HOME DIRECTORY:
+/Users/amberharmon
+
+COMMANDS:
+pwd - Present Working Directory
+cd - change directory
+ls -list structure (list of directory)
+man - manual. Will return manual explaining command 
+history - allows you to review and revise your history
+less - paging command
+mv - move command (man mv)
+mkdir - make directory
+
+FLAGS (modifies behaviors):
+-l : Long directory (more info)
+-t : time (modication date)
+-a : everything
+-r : reverse (reverses order of listing)
+-G : Color coding
+-lh : better file sizes
+-S : sort by filesize
+-R : recursive directory (lists directories within directories)
+
+CONCEPTS:
+Concept: The Path
+- A path represents a ocation in the filesystem
+- Like a tree. Trunk is Root directory and then everything branches from there
+
+A path is absolute when it starts with '/'
+A path is relative when it does not
+
+Concept: The Root is the top most container
+Concept: PIPING
+The pipe character | take the output from the first command and uese it as a input to the second
+
+CONCEPT: Redirection
+> Redirection operator. 
+sends the output of a command on the let side to a file named on the right
+
+>> output is appended to an exisiting file insteall of replacing it
+
+.  Means currrent directory
+
+
+*GIT*
+Commands:
+git status - always do this- make sure you know the state!!!!
+git init - initalizes git
+git add - adds files
+git rm - will remove from staging area
+git log - tells you the history
+git commit -a
+
+Flags:
+- m = message
+Staging - the area before you commit
+
+
+To push a branch: git push -orgin master
+To see what branch is open: git branch
+To checkout branch git checkout [branch]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
