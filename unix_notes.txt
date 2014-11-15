@@ -1,500 +1,69 @@
-  171  grunt
-  172  grunt
-  173  grunt
-  174  grunt
-  175  grunt
-  176  grunt
-  177  grunt
-  178  grunt
-  179  grunt
-  180  grunt
-  181  grunt
-  182  grunt
-  183  grunt
-  184  grunt
-  185  grunt
-  186  grunt
-  187  npm install grunt-screenshot-element --save-dev
-  188  npm install -g grunt-cli
-  189  npm install -g grunt-cli
-  190  cd /Users/amberharmon/Projects/Sites/iconz 
-  191  grunt
-  192  grunt
-  193  grunt
-  194  grunt
-  195  grunt
-  196  grunt
-  197  grunt
-  198  grunt
-  199  grunt
-  200  grunt
-  201  grunt
-  202  grunt
-  203  grunt
-  204  grunt
-  205  grunt
-  206  grunt
-  207  grunt
-  208  grunt
-  209  grunt
-  210  grunt
-  211  grunt
-  212  grunt
-  213  grunt
-  214  grunt
-  215  grunt
-  216  grunt
-  217  grunt
-  218  grunt
-  219  grunt
-  220  grunt
-  221  grunt
-  222  grunt
-  223  grunt
-  224  grunt
-  225  grunt
-  226  grunt
-  227  grunt
-  228  grunt
-  229  grunt
-  230  grunt
-  231  grunt
-  232  grunt
-  233  grunt
-  234  grunt
-  235  grunt
-  236  grunt
-  237  grunt
-  238  grunt
-  239  grunt
-  240  grunt
-  241  grunt
-  242  grunt
-  243  grunt
-  244  grunt
-  245  grunt
-  246  grunt
-  247  grunt
-  248  grunt
-  249  grunt
-  250  grunt
-  251  grunt
-  252  grunt
-  253  grunt
-  254  grunt
-  255  grunt
-  256  grunt
-  257  grunt
-  258  grunt
-  259  grunt
-  260  grunt
-  261  grunt
-  262  grunt
-  263  grunt
-  264  grunt
-  265  grunt
-  266  grunt
-  267  grunt
-  268  grunt
-  269  grunt
-  270  grunt
-  271  grunt
-  272  grunt
-  273  grunt
-  274  grunt
-  275  grunt
-  276  grunt
-  277  grunt
-  278  grunt
-  279  grunt
-  280  grunt
-  281  grunt
-  282  grunt
-  283  grunt
-  284  grunt
-  285  grunt
-  286  grunt
-  287  grunt
-  288  grunt
-  289  grunt
-  290  grunt
-  291  grunt
-  292  grunt
-  293  grunt
-  294  grunt
-  295  cd/Users/amberharmon/Projects/Sites/git/firstgit/iconizerw 
-  296  grunt
-  297  grunt
-  298  cd/Users/amberharmon/Projects/Sites/git/firstgit/iconizerw 
-  299  cd /Users/amberharmon/Projects/Sites/git/firstgit/iconizerw 
-  300  grunt
-  301  grunt
-  302  grunt
-  303  grunt
-  304  grunt
-  305  grunt
-  306  grunt
-  307  grunt
-  308  grunt
-  309  grunt
-  310  grunt
-  311  cd /Users/amberharmon/Projects/Sites/git/firstgit/grunt-screenshot-element 
-  312  npm install -g grunt-cli
-  313  npm install grunt-cli
-  314  npm install grunt-cli
-  315  git --version
-  316  node --version
-  317  npm install -g bower
-  318  npm install bower
-  319  npm install bower
-  320  bower install --save jquery # or bower i -S jquery
-  321  bower install --save jquery
-  322  npm install -g bower
-  323  npm install bower
-  324  npm install grunt
-  325  cd /Users/amberharmon/Projects/Sites/git/firstgit/bower-play 
-  326  npm install -g bower
-  327  npm install bower
-  328  npm --version
-  329  cd /Users/amberharmon/Projects/Sites/git/firstgit/bower 
-  330  git --version
-  331  npm install bower
-  332  cd /Users/amberharmon/Projects/Sites/git/firstgit/bower 
-  333  npm install -g bower
-  334  npm install bower
-  335  npm --version
-  336  node --version
-  337  cd /Users/amberharmon/Projects/Sites/git/firstgit/bower 
-  338  npm install grunt-cli
-  339  cd /Users/amberharmon/test 
-  340  npm install grunt cli
-  341  cd /Users/amberharmon/firstgit 
-  342  cd /Users/amberharmon/Projects/Sites/git/firstgit/bower 
-  343  npm install grunt-cli
-  344  cd /Users/amberharmon/bower 
-  345  npm install -g bower
-  346  npm install bower
-  347  bower install --save jquery
-  348  bower install --save jquery # or bower i -s jquery
-  349  bower install jquery
-  350  bower install jquery
-  351  instal grunt cli
-  352  npm install grunt cli
-  353  bower install jquery
-  354  sudo bower -v
-  355  echo $PATH
-  356  sudo nana /etc/paths
-  357  sudo nano /etc/paths
-  358  echo $path
-  359  echo $PATH
-  360  npm install -g bower
-  361  bower install jquery
-  362  sudo using --allow-root option
-  363  cd /Users/amberharmon/Projects/Sites/git/firstgit/bower 
-  364  node --version
-  365  npm --version
-  366  npm install -g bower
-  367  bower install jquery
-  368  bower grunt
-  369  bower grunt-cli
-  370  npm install -g grunt-cli
-  371  npm install grunt-cli
-  372  node --version
-  373  echo $PATH
-  374  npm --version
-  375  node --version
-  376  npm install -g bower
-  377  sudo chown -R `whoami` ~/.npm
-  378  npm install -g bower
-  379  sudo chown -R $USER /usr/local/lib/node_modules
-  380  npm install -g bower
-  381  ../
-  382  ./
-  383  /
-  384  sudo chown -R `whoami` ~/.npm
-  385  cd /Users/amberharmon/Projects/Sites/git/firstgit/bower 
-  386  bower --version
-  387  ~
-  388  echo prefix = ~/.node >> ~/.npmrc
-  389  export PATH="$PATH:$HOME/npm/bin"
-  390  npm install -g grunt-cli
-  391  cd /Users/amberharmon/Projects/Sites/git/firstgit/bower 
-  392  bower --version
-  393  bower -v
-  394  sudo bower -v
-  395  bower install jquery
-  396  cd /Users/amberharmon/Projects/Sites/git/firstgit/iconizerw 
-  397  grunt iconizr
-  398  grunt
-  399  grunt
-  400  v-- node
-  401  node v--
-  402  node
-  403  node -version
-  404  nodejs -v
-  405  node -v
-  406  git -v
-  407  cd /Users/amberharmon/Projects/Sites/git/firstgit/iframeVideo2 
-  408  ls
-  409  ls -l
-  410  ls -a
-  411  clear
-  412  ls -a
-  413  ls -l
-  414  pwd
-  415  less iframe.html
-  416  ls
-  417  ls
-  418  mv video.js video2.js
-  419  ls
-  420  mv clear
-  421  clear
-  422  ls
-  423  cp site.html site2.html
-  424  ls
-  425  less site2.html 
-  426  cp -r iframeVideo2 ~
-  427  tree
-  428  rm site2.html
-  429  ls
-  430  ls
-  431  clear
-  432  cd ../adhesiveAd/
-  433  ls
-  434  ls -a
-  435  clear
-  436  mddir pictures
-  437  mkdir pictures
-  438  ls pictures/
-  439  mkdir pictures/notes
-  440  ls
-  441  rm -r pictures
-  442  ls
-  443  mkdir -p pictures/notes/part1
-  444  cd /pictures
-  445  cd pictures
-  446  ls
-  447  cd notes
-  448  ls
-  449  pwd
-  450  ls
-  451  cd part1
-  452  pwd
-  453  cd ../../../
-  454  clear
-  455  git -version
-  456  cd ~
-  457  git -version
-  458  git -v
-  459  clear
-  460  git --version
-  461  clear
-  462  ls
-  463  cd clear
-  464  clear
-  465  ls
-  466  ls -S
-  467  ls -h
-  468  ls -lh
-  469  ls
-  470  projects
-  471  cd projects
-  472  ls
-  473  cd wedding
-  474  ls
-  475  cd ../
-  476  cd ../../
-  477  cd 
-  478  ls
-  479  ls -@
-  480  ls -A
-  481  ls -C
-  482  ls -G
-  483  cd Desktop
-  484  ls -G
-  485  cd ../
-  486  ls
-  487  ls -lh
-  488  ls
-  489  ls -p
-  490  ls -l
-  491  ls -lh
-  492  ls -B
-  493  ls -lB
-  494  ls -f
-  495  ls -aG
-  496  ls -S
-  497  ls one
-  498  ls -one
-  499  ls -R
-  500  ls
-  501  ls -1
-  502  clear
-  503  clear
-  504  pwd
-  505  ls
-  506  cd pictures
-  507  pwd
-  508  cd 
-  509  ls -l
-  510  ls -lG
-  511  cd Pictures
-  512  pwd
-  513  ls
-  514  cd ../../
-  515  ls
-  516  cd amberharmon/
-  517  pwd
-  518  pwd
-  519  ls
-  520  cd swipe/
-  521  pwd
-  522  cd ../
-  523  ls
-  524  cd Projects/
-  525  ls
-  526  cd ../
-  527  cd desktop
-  528  ls
-  529  cd Project/
-  530  ls
-  531  pwd
-  532  cd ../../
-  533  ls
-  534  cd Projects/
-  535  ls
-  536  cd ../../
-  537  ls
-  538  cd amberharmon/
-  539  ls
-  540  cd Projects/
-  541  ls
-  542  cd Sites/
-  543  ls
-  544  cd git/
-  545  ls
-  546  cd firstgit/
-  547  ls
-  548  cd foo/
-  549  ls -G
-  550  ls
-  551  cd ../
-  552  cd craps
-  553  ls -G
-  554  ../
-  555  cd ../
-  556  cd ../../
-  557  ls
-  558  ls -G
-  559  cd orien
-  560  ls
-  561  cd ../
-  562  cd yummly/
-  563  ls -r
-  564  ls -R
-  565  cd ../
-  566  ls
-  567  ls -G
-  568  cd rockscissors/
-  569  ls
-  570  cd ../
-  571  cd rockscissors/ ls
-  572  ls
-  573  cd ../
-  574  ls
-  575  cd training/ ; ls
-  576  cd ../
-  577  ls -G
-  578  ls aslheyharmon/
-  579  cd ../
-  580  ls -G
-  581  cd ../
-  582  ls
-  583  cd Projects/
-  584  ls -G
-  585  cd Sites
-  586  ls -G
-  587  ls -a
-  588  cd
-  589  pwd
-  590  ls 
-  591  cd Projects/Sites/
-  592  ls ~
-  593  pwd
-  594  ls /
-  595  ls /Library/
-  596  ls -G
-  597  ls /Projects
-  598  ls bootstrap/ -G
-  599  ls -G /etc
-  600  ls .
-  601  ls . -G
-  602  ls -G .
-  603  ls -G ...
-  604  ls pwd
-  605  pwd
-  606  history
-  607  history less
-  608  man less
-  609  pwd
-  610  cd
-  611  pwd
-  612  history > moving_around.txt
-  613  ls
-  614  ls -t
-  615  ls -tG
-  616  less moving_around.txt 
-  617  ls
-  618  subl moving_around.txt
-  619  ls
-  620  subl moving_around.txt 
-  621  ls /
-  622  ls /Applications/
-  623  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" subl
-  624  subl moving_around.txt 
-  625  cd /usr/local/
-  626  ls
-  627  ls /bin/
-  628  ls -a /bin/
-  629  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-  630  sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-  631  subl moving_around.txt 
-  632  history > moving_around.txt
-  633  sudo history > moving_around.txt
-  634  cd ~
-  635  history > moving_around.txt
-  636  subl moving_around.txt 
-  637  pwd
-  638  ls
-  639  touch exampe.txt
-  640  ls
-  641  ls -r
-  642  subl example.txt
-  643  mkdir deleteme
-  644  ls
-  645  git help
-  646  clear
-  647  ls
-  648  ls -G
-  649  subl moving_around.txt
-  650  cd
-  651  mkdir gue_workshop
-  652  ls
-  653  mv moving_around.txt ./gue_workshop/
-  654  cd gue_workshop/
-  655  ls -G
-  656  ls
-  657  cd ../
-  658  pwd
-  659  ls -G
-  660  cd gue_workshop/
-  661  mv moving_around.txt unix_notes.txt
-  662  ls
-  663  mv test.txt
-  664  ls
-  665  mv foo.txt test.txt
-  666  mv man
-  667  pwd
-  668  cd ../
-  669  history
-  670  history > ./gue_workshop/unix_notes.txt 
+You home director is a folder on the computer filesystem that belongs to you.
+HOME DIRECTORY:
+/Users/amberharmon
+
+COMMANDS:
+pwd - Present Working Directory
+cd - change directory
+ls -list structure (list of directory)
+man - manual. Will return manual explaining command 
+history - allows you to review and revise your history
+less - paging command
+mv - move command (man mv)
+mkdir - make directory
+
+
+FLAGS (modifies behaviors):
+-l : Long directory (more info)
+-t : time (modication date)
+-a : everything
+-r : reverse (reverses order of listing)
+-G : Color coding
+-lh : better file sizes
+-S : sort by filesize
+-R : recursive directory (lists directories within directories)
+
+CONCEPTS:
+Concept: The Path
+- A path represents a ocation in the filesystem
+- Like a tree. Trunk is Root directory and then everything branches from there
+
+A path is absolute when it starts with '/'
+A path is relative when it does not
+
+Concept: The Root is the top most container
+Concept: PIPING
+The pipe character | take the output from the first command and uese it as a input to the second
+
+CONCEPT: Redirection
+> Redirection operator. 
+sends the output of a command on the let side to a file named on the right
+
+>> output is appended to an exisiting file insteall of replacing it
+
+.  Means currrent directory
+
+
+*GIT*
+Commands:
+git status - always do this- make sure you know the state!!!!
+git init - initalizes git
+git add - adds files
+git rm - will remove from staging area
+git log - tells you the history
+
+Flags:
+- m = message
+Staging - the area before you commit
+
+
+
+
+
+
+
+
+
+
+
+
