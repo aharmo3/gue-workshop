@@ -1,1 +1,4 @@
-I am an addition to the branch git notes. The branch master is not being protected from my crazy ass changes. This file will be not be on the master branch
+I am an addition to the branch git notes. The branch master is not being protected from my crazy ass changes. This file will be not be on the master branch. 
+
+
+This is a comment that will show up and then be pushed
